@@ -5,7 +5,7 @@ declare(strict_types = 1);
 namespace Donjan\Permission;
 
 use Hyperf\Utils\Collection;
-use League\Flysystem\Filesystem;
+
 use Donjan\Permission\Commands\CacheReset;
 
 class ConfigProvider
